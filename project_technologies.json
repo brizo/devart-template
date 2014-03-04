@@ -7,8 +7,8 @@
             "OSX"
         ],
         "toolkits": [
-            "OpenFrameworks"
-            "OpenCV"
+            "OpenFrameworks",
+            "OpenCV",
             "Kinect"
         ]
     },
