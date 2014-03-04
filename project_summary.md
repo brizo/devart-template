@@ -1,5 +1,4 @@
-# Project Title
-Movement
+# Movement
 
 ## Authors
 - Bryan Bui-Tuong https://github.com/suprnrdy
