@@ -1,5 +1,10 @@
-Insert a description to describe your update to document your creative process. The Commissioned Interactive Artists will be doing the same so you can reference their Project Posts.
+Concept Design:
 
-![Example Image](../project_images/cover.jpg?raw=true "Example Image")
+We have been going back and forth between how to integrate both the wall projection and the LEDs.  We ran some simulations and had to re-evaluate how we wanted to approach our concept.  
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+A few things that came up were:
+1) Contrast to highlight one or the other
+2) Bounce back and forth between the wall and LED 
+3) Use the LED to highlight motion and the projection to showcase the final "art piece" 
+
+![Sketch Image](../project_images/quick_sketch1.jpg?raw=true "Sketch Image")
