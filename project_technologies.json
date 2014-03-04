@@ -4,10 +4,12 @@
             "insert apis"
         ],
         "platforms": [
-            "insert platforms"
+            "OSX"
         ],
         "toolkits": [
-            "insert toolkits"
+            "OpenFrameworks"
+            "OpenCV"
+            "Kinect"
         ]
     },
     "themes": [
