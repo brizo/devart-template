@@ -34,6 +34,6 @@ function test() {
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
-[Quick Sketch 1](project_images/quick_sketch1.jpg?raw=true "sketch 1")
-[Quick Sketch 2](project_images/quick_sketch2.jpg?raw=true "sketch 2")
+![Quick Sketch 1](project_images/quick_sketch1.jpg?raw=true "sketch 1")
+![Quick Sketch 2](project_images/quick_sketch2.jpg?raw=true "sketch 2")
 
