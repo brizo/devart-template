@@ -136,20 +136,10 @@ void testApp::draw() {
     ofRotate(cameraRotation.x, 1, 0, 0);
 	ofRotate(cameraRotation.y, 0, 1, 0);
 	//ofRotate(cameraRotation.y, 0, 0, 1);
-    
-//    ofSetColor(255, 255, 255);
-//	glBegin(GL_QUADS);
-//	glVertex3f(-300, 250, 0);
-//	glVertex3f(-300, 250, -245);
-//	glVertex3f(300, -15, -245);
-//	glVertex3f(300, -15, 15);
-//	glEnd();
-    
+
     ofPushMatrix();
     ofTranslate(-14, 10, -410);
     if(dir.serverExists(serverName, appName)) {
-        //fingerMovie.draw(0, 0, 400, 400);
-        //Draw syphon client here
         syphonFBO.draw(0, 0, 400, 400);
     }
     ofPopMatrix();
