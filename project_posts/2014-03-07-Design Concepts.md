@@ -4,6 +4,9 @@ We have two areas of focus right now:
 1) How we want to draw to the screen and tie all the layers together
 2) How to best represent motion in the LEDs
 
+When everything is done, the final image is uploaded to Flickr to be shared with the world.
+
+
 We tried out a few things with the LED simulation and came up with a few ways that we wanted to represent and promote movement.  
 
 - Movements compound and build upon the previous movements, and we show this by making the LED's brighter as the subject moves more, but as soon as movement slows down, the LEDs dim.  The idea is to promote more movement.  
