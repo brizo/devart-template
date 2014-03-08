@@ -10,8 +10,10 @@ We tried out a few things with the LED simulation and came up with a few ways th
 - Light an orb in the LEDs to represent the subject, and pulsate a wave around the orb with each piece of movement and optionally with the beat of music.  The orb would also move as the subject moves.  The idea is to tie the user into the experience of the LEDs.  
 - And as we show in the video below, we wanted to also extend the depth of the screen that's being painted and re-draw what was on the screen on each layer of LEDs.  
 
+https://vimeo.com/88491051
 
-3 Layers total
+
+Canvas - 3 Layers total
 
 Movement triggers 2 Layers:
 1) Triggers change in the background base layer (geometric shapes)
