@@ -37,6 +37,6 @@ As far as the drawing with motion, we want to try a few concepts.  Here are some
 ![Squeal](../project_images/delauny-face.jpg?raw=true "Squeal")
 
 - Splatter art
-![Splatter Art] (../project_images/splatter-art1.jpg?raw=true "splatter art)
-![Splatter Art] (../project_images/splatter-art2.jpg?raw=true "splatter art)
-![Splatter Art] (../project_images/splatter-art3.jpg?raw=true "splatter art)
+![Splatter Art] (../project_images/splatter-art1.jpg?raw=true "splatter art")
+![Splatter Art] (../project_images/splatter-art2.jpg?raw=true "splatter art")
+![Splatter Art] (../project_images/splatter-art3.jpg?raw=true "splatter art")
