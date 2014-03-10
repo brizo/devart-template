@@ -18,17 +18,12 @@ https://vimeo.com/88491051
 
 Canvas - 3 Layers total
 
-Movement triggers 2 Layers:
+Movement triggers 3 Layers:
 1) Triggers change in the background base layer (geometric shapes)
 2) Draws 1-to-1 painting
-
-3rd Layer:
-Image of the subjects face.  The face is untouched or masked, the hair is masked and modified and changes to movement or dance.  
+3) Image of the subjects face.  The face is untouched or masked, the hair is masked and modified and changes to movement or dance.  
 
 As far as the drawing with motion, we want to try a few concepts.  Here are some images that we are inspired by:
-
-- Paint Splatter
-![Paint Splash](../project_images/paint-splash.jpg?raw=true "Paint Splash")
 
 - Whorechata - (http://www.willowiswatching.com/Magic-Show)
 ![Whorechata](../project_images/whorechata.jpg?raw=true "Whorechata")
@@ -37,6 +32,6 @@ As far as the drawing with motion, we want to try a few concepts.  Here are some
 ![Squeal](../project_images/delauny-face.jpg?raw=true "Squeal")
 
 - Splatter art
-![Splatter Art] (../project_images/splatter-art1.jpg?raw=true "splatter art")
-![Splatter Art] (../project_images/splatter-art2.jpg?raw=true "splatter art")
-![Splatter Art] (../project_images/splatter-art3.jpg?raw=true "splatter art")
+![Splatter] (../project_images/splatter-art1.jpg?raw=true "Splatter")
+![Splatter] (../project_images/splatter-art2.jpg?raw=true "Splatter")
+![Splatter] (../project_images/splatter-art3.jpg?raw=true "Splatter")
