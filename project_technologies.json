@@ -8,8 +8,9 @@
         ],
         "toolkits": [
             "OpenFrameworks",
-            "OpenCV",
-            "Kinect"
+            "OpenNI",
+            "Kinect",
+		 "Ableton"
         ]
     },
     "themes": [

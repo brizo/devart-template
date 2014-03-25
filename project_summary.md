@@ -30,6 +30,8 @@ function test() {
 
 [ofxUI](https://github.com/rezaali/ofxUI "ofxUI")
 [OctoWS2811](https://www.pjrc.com/teensy/td_libs_OctoWS2811.html "OctoWs2811")
+[ofxFlickr](https://github.com/robotconscience/ofxFlickr "ofxFlickr")
+[ofxMSAFluid](https://github.com/memo/ofxMSAFluid "ofxMSAFluid")
 
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
