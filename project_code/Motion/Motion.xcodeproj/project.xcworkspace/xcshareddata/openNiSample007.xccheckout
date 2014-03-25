@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>05D29113-9612-48AA-89BC-369727226592</string>
+	<key>IDESourceControlProjectName</key>
+	<string>openNiSample007</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>55A7EADE-C81F-4C74-9C99-19D88060977F</key>
+		<string>https://github.com/gameoverhack/ofxOpenNI.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>examples/opeNI-SimpleExamples/openNiSample007.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>55A7EADE-C81F-4C74-9C99-19D88060977F</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gameoverhack/ofxOpenNI.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>55A7EADE-C81F-4C74-9C99-19D88060977F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>55A7EADE-C81F-4C74-9C99-19D88060977F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxOpenNI</string>
+		</dict>
+	</array>
+</dict>
+</plist>
