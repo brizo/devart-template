@@ -4,12 +4,12 @@ To control the LEDs, we chose to use the open standard [Art-Net](http://en.wikip
 
 By breaking up the 3D image into slices, we then pass on each slice to a 2D array of LEDs like a normal screen. 
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
+![Example Image](../project_images/cover.jpg?raw=true "Example Image")
 
 We are using a modified version of the [OctoWS2811](https://www.pjrc.com/teensy/td_libs_OctoWS2811.html "OctoWs2811") library incorporating the [Art-Net](http://en.wikipedia.org/wiki/Art-Net "Art-Net") protocol on one [Teensy 3.1](https://www.pjrc.com/store/teensy31.html "Teensy") microcontroller board.  This enables us to have the ability to control the LEDs with not just our software, but expand to other Art-Net enabled software also.  
 
-![Teensy3.1](project_images/teensy31.jpg?raw=true "Teensy")
+![Teensy3.1](../project_images/teensy31.jpg?raw=true "Teensy")
 
 We are planing on using WS2811 enabled LED balls with full RGB color capabilities.  They consist of 5050 LEDs and controlled by a WS2811 chip.
 
-![LED Balls](project_images/ledball.jpg?raw=true "LED Ball")
+![LED Balls](../project_images/ledball.jpg?raw=true "LED Ball")
