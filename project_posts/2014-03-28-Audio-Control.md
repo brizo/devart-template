@@ -7,6 +7,6 @@ The vertical position of the right hand controls an arpeggio that is synced in t
 The vertical position of the left hand controls the equalizer, allowing the user to have control over the low, mid, and high frequencies. This gives the user a sense of musical depth.
 
 
-![AbletonSynapse](../project_images/ableton-synapse.jpg?raw=true "AbletonSynapse")
+
 
 
