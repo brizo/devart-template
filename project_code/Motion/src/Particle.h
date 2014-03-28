@@ -1,43 +1,26 @@
 /*
  *  Particle.h
- *  openFrameworks
+ *  ofxMSAFluid Demo
  *
- *  Created by Stephen Braitsch on 11/6/09.
- *  Copyright 2009 __MyCompanyName__. All rights reserved.
+ *  Created by Mehmet Akten on 02/05/2009.
+ *  Copyright 2009 MSA Visuals Ltd.. All rights reserved.
  *
  */
 
-#ifndef PARTICLE
-#define PARTICLE
+#pragma once
 
-#import "ofMain.h"
+#include "MSACore.h"
+#include "MSAFluidSolver.h"
 
 class Particle {
+public:	
+    ofVec2f	pos, vel;
+    float	radius;
+    float	alpha;
+    float	mass;
 	
-private:
-	
-	int size;
-	int age;		// current age
-	int maxAge;		// max age
-    bool destSet;
-	
-public:
-	Particle();
-    Particle(int x, int y);
-	
-	void update();
-	void draw();
-    int getSize();
-    void setDestination(ofVec3f _d);
-    void setColor(ofFloatColor _c);
-
-	bool dead;
-    ofVec3f position;
-    ofVec3f velocity;
-    ofVec3f acceleration;
-    ofVec3f attraction;
-    ofFloatColor color;
+    void init(float x, float y);
+    void update( const msa::fluid::Solver &solver, const ofVec2f &windowSize, const ofVec2f &invWindowSize );
+	void updateVertexArrays( bool drawingFluid, const ofVec2f &invWindowSize, int i, float* posBuffer, float* colBuffer);
 };
 
-
-#endif

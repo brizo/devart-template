@@ -3,7 +3,7 @@
 
 
 #include "ofMain.h"
-#include "Particle.h"
+#include "Particle3D.h"
 #include "ofVbo.h"
 
 //#define size 10000
@@ -36,7 +36,7 @@ public:
     int getSize();
 	
 //	Particle* p[size];
-    deque<Particle> p;
+    deque<Particle3D> p;
     // billboard particles
     ofShader billboardShader;
     ofImage texture;
